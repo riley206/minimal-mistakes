@@ -328,3 +328,6 @@ collections:
   plays:
     output: true
     permalink: /plays/:path/
+  tests:
+    output: true
+    permalink: /tests/:path/
