@@ -323,3 +323,8 @@ defaults:
       comments: # true
       share: true
       related: true
+
+collections:
+  plays:
+    output: true
+    permalink: /plays/:path/
