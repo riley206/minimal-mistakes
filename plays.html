@@ -1,0 +1,9 @@
+---
+layout: archive
+title: "Plays"
+permalink: /plays/
+---
+
+{% for play in site.plays %}
+- [{{ play.title }}]({{ play.url }})
+{% endfor %}
