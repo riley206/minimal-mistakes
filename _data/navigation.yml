@@ -11,3 +11,6 @@ main:
   - title: "Plays"
     url: /plays/
     external: false
+  - title: "Tests"
+    url: /tests/
+    external: false
