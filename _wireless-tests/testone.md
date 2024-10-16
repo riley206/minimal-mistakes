@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Test One"
-permalink:  /minimal-mistakes/wireless-tests/testone/
+permalink:  /wireless-tests/testone/
 ---
 
 # Test One Content

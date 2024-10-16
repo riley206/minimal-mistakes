@@ -328,6 +328,6 @@ collections:
   plays:
     output: true
     permalink: /plays/:path/
-  tests:
+  wireless-tests:
     output: true
     permalink: /wireless-tests/:path/
