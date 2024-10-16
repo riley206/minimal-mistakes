@@ -4,8 +4,8 @@ title: "Tests"
 permalink: /wireless-tests/
 ---
 
-# List of Tests
+# Wireless Tests
 
-{% for test in site.tests %}
-- [{{ test.title }}]({{ test.url }})
+{% for test in site.wireless-tests %}
+- [{{ test.title }}]({{ site.baseurl }}{{ test.url }})
 {% endfor %}
