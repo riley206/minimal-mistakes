@@ -7,5 +7,5 @@ permalink: /wireless-tests/
 # Wireless Tests
 
 {% for test in site.wireless-tests %}
-- [{{ test.title }}]({{ site.baseurl }}{{ test.url }})
+- [{{ test.title }}]({{ test.url }})
 {% endfor %}
