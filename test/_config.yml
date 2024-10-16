@@ -91,37 +91,22 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Riley Maltos"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Created this website to show what the future could look like for this project."
   location         : "Somewhere"
   links:
-    - label: "Your Website"
+    - label: "Future Plans"
       icon: "fas fa-fw fa-link"
       url: "https://your-site.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/riley206/minimal-mistakes"
 
 
 # Reading Files
