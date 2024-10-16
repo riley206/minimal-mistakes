@@ -73,5 +73,5 @@ But then, an unexpected problem arose. One day, the system started showing a dis
 
 Determined to find the answer, Sarah decided to test the RFID system thoroughly. She recalled reading about an easy method to test the system’s accuracy. Sarah called her team together and said, "Let's conduct a series of tests to see how reliable the system is under different conditions."
 
-Curious about how Sarah tested the RFID system? [Click here to learn about Test 1]({{ site.baseurl }}/tests/testone/) and see the exact steps she followed to ensure RFID accuracy.
+Curious about how Sarah tested the RFID system? [Click here to learn about Test 1](https://riley206.github.io/minimal-mistakes/wireless-tests/testone/) and see the exact steps she followed to ensure RFID accuracy.
 
