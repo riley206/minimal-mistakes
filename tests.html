@@ -1,5 +1,11 @@
 ---
-layout: archive
+layout: default
 title: "Tests"
 permalink: /tests/
 ---
+
+# List of Tests
+
+{% for test in site.tests %}
+- [{{ test.title }}]({{ test.url }})
+{% endfor %}

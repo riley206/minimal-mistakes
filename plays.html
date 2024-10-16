@@ -1,24 +1,11 @@
 ---
-layout: archive
+layout: default
 title: "Plays"
 permalink: /plays/
 ---
-# Plays
 
-<details>
-<summary>Play 1: Title of Play One</summary>
+# List of Plays
 
-**Plot**: A brief summary of Play One...
-
-[Read the full story here]({{ site.baseurl }}/plays/playone/)
-
-</details>
-
-<details>
-<summary>Play 2: Title of Play Two</summary>
-
-**Plot**: A brief summary of Play Two...
-
-[Read the full story here]({{ site.baseurl }}/plays/playtwo/)
-
-</details>
+{% for play in site.plays %}
+- [{{ play.title }}]({{ play.url }})
+{% endfor %}
