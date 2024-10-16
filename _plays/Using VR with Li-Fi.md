@@ -4,7 +4,6 @@ title: "Using VR with LIFI"
 permalink: /plays/Using VR with Li-Fi/
 ---
 
-# Using Vr with Lifi
 # Scenario: LiFi-Enabled Wireless Headsets for Enhanced Audio Communication
 
 In this scenario, we explore how **LiFi** (Light Fidelity) technology can be used to enhance wireless headsets for secure, high-quality audio communication. By using LiFi instead of traditional radio frequency (RF) signals, the headsets can achieve faster, interference-free communication with minimal latency, making them ideal for environments where RF-based wireless systems struggle due to interference or bandwidth constraints.

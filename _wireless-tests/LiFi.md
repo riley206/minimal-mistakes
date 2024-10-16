@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "RFID Test"
+title: "LIFI"
 permalink:  /wireless-tests/LiFi/
 ---
 

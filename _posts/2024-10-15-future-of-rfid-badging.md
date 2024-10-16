@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Future of RFID Badging"
 date: 2024-10-15 12:00:00 -0700
 categories: rfid security

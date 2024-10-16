@@ -4,8 +4,6 @@ title: "WIFI TEST"
 permalink:  /wireless-tests/WIFI/
 ---
 
-# Test One Content
-
 In this test, we will walk through a comprehensive set of steps for troubleshooting common wireless network issues. This process is divided into different sections, each designed to diagnose a specific problem that users might encounter when trying to connect to a wireless network.
 
 ## Step 1: Check Physical Connections and Wireless Settings
