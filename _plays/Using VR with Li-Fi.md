@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "Using VR with LIFI"
 permalink: /plays/Using VR with Li-Fi/
 ---

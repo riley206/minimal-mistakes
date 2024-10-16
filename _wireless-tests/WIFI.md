@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "WIFI TEST"
 permalink:  /wireless-tests/WIFI/
 ---

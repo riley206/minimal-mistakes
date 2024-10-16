@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "Inventory Management Using RFID"
 permalink: /plays/playone/
 ---

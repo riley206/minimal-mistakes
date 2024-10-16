@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "RFID Test"
 permalink:  /wireless-tests/rfid/
 ---
