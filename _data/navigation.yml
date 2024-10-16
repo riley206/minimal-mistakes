@@ -11,6 +11,6 @@ main:
   - title: "Plays"
     url: /plays/
     external: false
-  - title: "Tests"
-    url: /tests/
+  - title: "Wireless Tests"
+    url: /wireless-tests/
     external: false

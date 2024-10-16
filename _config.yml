@@ -330,4 +330,4 @@ collections:
     permalink: /plays/:path/
   tests:
     output: true
-    permalink: /tests/:path/
+    permalink: /wireless-tests/:path/
