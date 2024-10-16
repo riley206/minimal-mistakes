@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Badging"
+title: "Using VR with LIFI"
 permalink: /plays/Using VR with Li-Fi/
 ---
 
