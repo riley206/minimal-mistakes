@@ -1,6 +1,7 @@
 ---
-title: "Play 1"
-date: 2024-10-15
+layout: default
+title: "Play One"
+permalink: /plays/playone/
 ---
 # Inventory Management Using RFID
 

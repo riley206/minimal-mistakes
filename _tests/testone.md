@@ -1,5 +1,8 @@
 ---
-title: "Test 1"
-date: 2024-10-15
+layout: default
+title: "Test One"
+permalink: /tests/testone/
 ---
-Content for the Test goes here...
+
+# Test One Content
+This is the content for Test One.
