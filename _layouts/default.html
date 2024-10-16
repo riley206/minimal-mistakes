@@ -14,7 +14,9 @@
     {% include_cached masthead.html %}
 
     <div class="initial-content">
-      {{ content }}
+      <div class="page__content">  <!-- Add this line -->
+        {{ content }}
+      </div>  <!-- And close it here -->
       {% include after-content.html %}
     </div>
 
