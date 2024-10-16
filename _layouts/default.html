@@ -14,9 +14,9 @@
     {% include_cached masthead.html %}
 
     <div class="initial-content">
-      <div class="page__content">  <!-- Add this line -->
+      <div class="page__content{% if page.content_limited %} content-limited{% endif %}">
         {{ content }}
-      </div>  <!-- And close it here -->
+      </div>
       {% include after-content.html %}
     </div>
 

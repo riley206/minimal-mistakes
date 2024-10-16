@@ -2,6 +2,7 @@
 layout: default
 title: "WIFI TEST"
 permalink:  /wireless-tests/WIFI/
+content_limited: true
 ---
 
 # Test One Content

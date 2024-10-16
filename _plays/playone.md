@@ -2,6 +2,7 @@
 layout: default
 title: "Inventory Management Using RFID"
 permalink: /plays/playone/
+content_limited: true
 ---
 # Inventory Management Using RFID
 

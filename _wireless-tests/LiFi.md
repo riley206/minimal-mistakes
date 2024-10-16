@@ -2,6 +2,7 @@
 layout: default
 title: "RFID Test"
 permalink:  /wireless-tests/LiFi/
+content_limited: true
 ---
 
 # Testing LiFi Technology for Wireless Communication
