@@ -2,7 +2,6 @@
 layout: default
 title: "RFID Test"
 permalink:  /wireless-tests/rfid/
-content_limited: true
 ---
 
 # RFID Test Using Proxmark3 on Kali Linux

@@ -2,7 +2,6 @@
 layout: default
 title: "Using VR with LIFI"
 permalink: /plays/Using VR with Li-Fi/
-content_limited: true
 ---
 
 # Using Vr with Lifi

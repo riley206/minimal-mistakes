@@ -2,7 +2,6 @@
 layout: default
 title: "Badging"
 permalink: /plays/playtwo/
-content_limited: true
 ---
 
 # The RFID Badging Revolution at TechCo
