@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "Wireless Tests"
 permalink: /wireless-tests/
 ---
