@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Test One"
-permalink:  /wireless-tests/testone/
+title: "WIFI TEST"
+permalink:  /wireless-tests/WIFI/
 ---
 
 # Test One Content
