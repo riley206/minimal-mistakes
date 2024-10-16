@@ -29,4 +29,5 @@ Ensure that the Wi-Fi adapter on your device is enabled. Sometimes, laptops have
 
 ```bash
 nmcli radio wifi
+```
 
