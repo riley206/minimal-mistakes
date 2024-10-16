@@ -84,6 +84,9 @@ body {
 }
 
 .page__content {
+  max-width: 800px;  /* Set the maximum width for readability */
+  margin: 0 auto;    /* Center the content horizontally */
+  padding: 0 20px;   /* Optional: Add padding for better readability */
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
