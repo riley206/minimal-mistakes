@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Play One"
-permalink: /plays/playone/
+permalink: /minimal-mistakes/plays/playone/
 ---
 # Inventory Management Using RFID
 
