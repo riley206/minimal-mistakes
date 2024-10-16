@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Inventory Management Using RFID"
-permalink: /minimal-mistakes/plays/playone/
+permalink: /plays/playone/
 ---
 # Inventory Management Using RFID
 
